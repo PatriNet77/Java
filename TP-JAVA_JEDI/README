@@ -1,6 +1,6 @@
 # GUÍA TRABAJO PRÁCTICO Nº1 JAVA JEDI
 
-## **Ejercicios nivel : Iniciado JAVA JEDI**
+## Ejercicios nivel : Iniciado JAVA JEDI
 1. Suma de dos números: Se le solicita que guarden dos números enteros y los
 sumen. El resultado mostrarlo por pantalla.
 
@@ -45,7 +45,7 @@ multiplicación. Por ejemplo:
 Numero1*Numero2/1 + Numero1*Numero2/2 + … + Numero1*Numero2/15
 El resultado mostrarlo por pantalla.
 
-## **Ejercicios nivel : Padawan JAVA JEDI**
+## Ejercicios nivel : Padawan JAVA JEDI
 
 1. Contador: Se le solicita que guarde un número en un espacio de memoria e
 incremente dicho número 20 veces sin usar asignación. ¿Que operador podría usar
@@ -69,7 +69,7 @@ otro espacio de memoria realice la conversión de esas libras a kilogramos. Util
 una constante de los valores que no van a cambiar en esta conversión. Muestre el
 resultado por pantalla
 
-## **Ejercicios nivel : Caballero JAVA JEDI**
+## Ejercicios nivel : Caballero JAVA JEDI
 
 1. Obtener porcentaje : Dados dos números, uno real y el otro entero. Obtenga el
 porcentaje que indique el segundo número del primer número.
@@ -100,7 +100,7 @@ usuario una cantidad en bitcoins y muestre el equivalente en dólares, utilizand
 tasa de cambio fija. Por ejemplo, si la tasa de cambio es de 1 bitcoin = 50000
 dólares, y el usuario ingresa 0.5 bitcoins, el programa deberá mostrar 25000 dólares.
 
-## **Ejercicios nivel : Maestro JAVA JEDI**
+## Ejercicios nivel : Maestro JAVA JEDI
 
 1. Cálculo del área de un círculo: Escribir un programa en Java que calcule el área
 de un círculo con un radio de 5 unidades. Buscar la fórmula con la que se
