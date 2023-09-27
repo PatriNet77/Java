@@ -1,4 +1,4 @@
-package trabajosPracticos;
+package trabajospracticos;
 
 /*Cálculo de divisibilidad: Se le solicita que guarden dos números enteros y los
 sumen, determine si el primer número es divisible por el segundo número y muestre

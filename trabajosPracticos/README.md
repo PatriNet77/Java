@@ -1,6 +1,7 @@
 # GUÍA TRABAJO PRÁCTICO Nº1 JAVA JEDI
 
 ## Ejercicios nivel : Iniciado JAVA JEDI
+
 1. Suma de dos números: Se le solicita que guarden dos números enteros y los
 sumen. El resultado mostrarlo por pantalla.
 
@@ -125,7 +126,7 @@ Muestre el resultado por pantalla.
 5. Cálculo de la energía cinética:
 Escribir un programa en Java que calcule la energía cinética de un objeto en
 movimiento, dados su masa y su velocidad.
-Utilizar la fórmula: E = (1/2) * m * v^2, donde E es la energía cinética, m es la masa
+Utilizar la fórmula: E = (1/2) *m* v^2, donde E es la energía cinética, m es la masa
 del objeto y v es la velocidad.
 Muestre el resultado por pantalla.
 

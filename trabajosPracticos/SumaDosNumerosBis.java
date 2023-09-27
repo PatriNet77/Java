@@ -1,4 +1,4 @@
-package trabajosPracticos;
+package trabajospracticos;
 
 /* Suma de dos números bis: Se les solicita que guarden dos números enteros y los
 sumen. El resultado guardarlo, mostrarlo por pantalla junto con un mensaje que
