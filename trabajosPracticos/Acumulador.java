@@ -8,12 +8,12 @@ El resultado mostrarlo por pantalla. */
 
 public class Acumulador {
     public static void main(String[] args) {
-        var numero1 = 6;
-        var numero2 = 8;
-        var acumulador = "";
-
-        for (int i = 1; i <= 15; i++) {
-            acumulador += (numero1 * numero2 / i) + " ";
-        }
+        var numero1 = 25;
+        var numero2 = 5;
+        var multiplicacion = numero1 * numero2;
+        System.out.println("El resultado de " + numero1 + " por " + numero2 + " es: " + multiplicacion);
+        var resultado = multiplicacion / 1 + multiplicacion / 2 + multiplicacion / 3 + multiplicacion / 4 + multiplicacion / 5 + multiplicacion / 6 + multiplicacion / 7 + multiplicacion / 8 + multiplicacion / 9 + multiplicacion / 10 + multiplicacion / 11 + multiplicacion / 12 + multiplicacion / 13 + multiplicacion / 14 + multiplicacion / 15;
+        System.out.println("La acumulación de quince multiplicaciones divididas por el número de multiplicación da como resultado: " + resultado);
+        
     }
 }
