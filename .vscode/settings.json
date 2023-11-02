@@ -3,5 +3,8 @@
         "iterativas"
     ],
     "commentTranslate.targetLanguage": "es",
-    "search-online.search-engine": "Github"
+    "search-online.search-engine": "Github",
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
 }
