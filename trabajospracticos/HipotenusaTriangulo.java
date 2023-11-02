@@ -19,8 +19,9 @@ public class HipotenusaTriangulo {
 
         double h = Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2));
 
+        scanner.close();
+
         System.out.println("La hipotenusa del triángulo rectángulo es: " + h);
 
-        scanner.close(); 
     }
 }
